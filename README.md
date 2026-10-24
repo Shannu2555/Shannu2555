@@ -9,14 +9,10 @@ I like building robots that actually work, not just in slides. Most of my time g
 - Writing about each one on LinkedIn as I build it
 
 **Tools I use**
-- ROS 2 (Humble), Gazebo, RViz
+- ROS 2 (Humble), Gazebo, RViz, Robotics 
 - C++, Python
 - SolidWorks, Fusion 360
 - CasADi, OpenCV, Docker
-
-**Projects**
-- [ros2-nmpc-diffdrive](https://github.com/Shannu2555/ros2-nmpc-diffdrive): nonlinear MPC vs pure pursuit on a diff-drive robot in ROS 2 + Gazebo, about 3x lower tracking error
-- [Portfolio](https://github.com/Shannu2555/Portfolio)
 
 **Find me**
 - LinkedIn: [shanmukhnarayanachaganti](https://www.linkedin.com/in/shanmukhnarayanachaganti)
